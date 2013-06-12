@@ -36,12 +36,6 @@
             </a></p>
           {%- endif %}
           {%- endblock %}
-          {%- block sidebartoc %}
-          {%- if display_toc %}
-            <h3><a href="{{ pathto(master_doc) }}">{{ _('Table Of Contents') }}</a></h3>
-            {{ toc }}
-          {%- endif %}
-          {%- endblock %}
           {%- block sidebarrel %}
           {%- if prev %}
             <h4>{{ _('Previous topic') }}</h4>
@@ -67,6 +61,12 @@
           {%- if customsidebar %}
           {% include customsidebar %}
           {%- endif %}
+          {%- block sidebartoc %}
+          {%- if display_toc %}
+            <h3><a href="{{ pathto(master_doc) }}">{{ _('Table Of Contents') }}</a></h3>
+            {{ toc }}
+          {%- endif %}
+          {%- endblock %}
           {%- block sidebarsearch %}
           {%- if pagename != "search" %}
           <h3>{% if builder == 'web' %}{{ _('Keyword search')}}{% else %}{{ _('Quick search') }}{% endif %}</h3>
