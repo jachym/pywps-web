@@ -40,10 +40,16 @@ Visit presentation about pywps-4 at `Geoinformatics 2013  <http://geoinformatics
 ****
 News
 ****
-2013-02 PyWPS-4 development restart
+
+2013-05 PyWPS-4 development restart
 -----------------------------------
     
     * Go to: http://github.com/jachym/pywps-4
+
+2013-04-10 MS Windows
+---------------------
+
+    * How to setup PyWPS on Windows, thanks to Joost Boerboom http://publicwiki.deltares.nl/display/OET/Setting+up+PyWPS+in+a+Windows+environment
 
 2013 PyWPS moved to github
 -------------------------------
