@@ -18,21 +18,12 @@ Tutorial
 
     * `PyWPS Tutorial <course>`_
 
-You can also obtain a copy of this tutorial from svn::
+You can also obtain a copy of this tutorial from git::
 
     # you need trunk, the course is pointing there for some files
-    svn checkout https://svn.wald.intevation.org/svn/pywps/trunk
+
+    git clone git://github.com/jachym/pywps-tutorial.git
         
-    # now you can get the docs
-    svn checkout https://svn.wald.intevation.org/svn/pywps/docs
-
-After you download the docs, you can chdir to docs/course and make it::
-
-    cd docs/course
-    make html
-    make pdf
-    
-
 Old Documentation < 3.2
 ***********************
 

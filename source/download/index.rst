@@ -9,9 +9,6 @@ PyWPS 3.2.1 - Stable version
 **************
 
 * `Source tar.gz <https://wald.intevation.org/frs/download.php/910/pywps-3.2.1.tgz>`_
-* SVN::
-    
-    svn checkout https://svn.wald.intevation.org/svn/pywps/tags/pywps-3.2.1
 
 **************
 PyWPS 3.1.0 - Old stable
@@ -20,9 +17,6 @@ PyWPS 3.1.0 - Old stable
 * `Source tar.gz <http://wald.intevation.org/frs/download.php/589/pywps-3.1.0.tar.gz>`_
 * `DEB <http://wald.intevation.org/frs/download.php/592/pywps_3.1.0-1_all.deb>`_
 * `RPM <http://wald.intevation.org/frs/download.php/590/pywps-3.1.0-1.noarch.rpm>`_
-* SVN::
-    
-    svn checkout https://svn.wald.intevation.org/svn/pywps/tags/pywps-3.1.0
 
 
 **************
