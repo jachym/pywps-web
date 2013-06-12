@@ -41,36 +41,43 @@ Visit presentation about pywps-4 at `Geoinformatics 2013  <http://geoinformatics
 News
 ****
 
+-----------------------------------
 2013-05 PyWPS-4 development restart
 -----------------------------------
     
     * Go to: http://github.com/jachym/pywps-4
 
+---------------------
 2013-04-10 MS Windows
 ---------------------
 
     * How to setup PyWPS on Windows, thanks to Joost Boerboom http://publicwiki.deltares.nl/display/OET/Setting+up+PyWPS+in+a+Windows+environment
 
+-------------------------------
 2013 PyWPS moved to github
 -------------------------------
     
     * Download: http://github.com/geopython/pywps
 
+-------------------------------
 2011-09-06 PyWPS 3.2.1 released
 -------------------------------
     
     * Download: https://wald.intevation.org/frs/download.php/910/pywps-3.2.1.tgz
 
+-------------------------------
 2011-09-06 PyWPS 3.2.0 released
 -------------------------------
     
     * Download: https://wald.intevation.org/frs/download.php/900/pywps-3.2.0.tgz
 
+------------------------------------
 2011-01-18 New course material added
 ------------------------------------
     Again main wiki page moved. This time you can find it at
     http://wiki.rsg.pml.ac.uk/pywps/Main_Page
 
+------------------------------------
 2010-05-05 New course material added
 ------------------------------------
     New course material added to PyWPS source. See `documentation
