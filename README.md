@@ -11,4 +11,4 @@ step #2: run
 
 step #3: rsync
 
-    rsync --protocol 29 --delete-excluded --del -r build/html/ $DEVELOPER@wald.intevation.org:/pywps/htdocs/
+    rsync --protocol 29  -r build/html/ $DEVELOPER@wald.intevation.org:/pywps/htdocs/ # --delete-excluded --del
